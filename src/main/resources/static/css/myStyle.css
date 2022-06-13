@@ -1,0 +1,12 @@
+.spacer{
+	margin-top:20px;	
+}
+.error{
+	color:red;
+}
+.logout{
+	color:green;
+}
+.clickable{
+	cursor: pointer;
+}
